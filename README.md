@@ -1,4 +1,0 @@
-stcklokal
-=========
-
-Stck in LAN
